@@ -1,2 +1,2 @@
-# Snake-Game
+# SnakeGame
 My first Java project.
